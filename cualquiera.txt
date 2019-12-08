@@ -9,8 +9,5 @@ Suspendisse vel euismod dui,
 psvm
 et blandit nisl. Quisque mattis mi massa,
 Hola Mundo
-Lorem ipsum dolor sit amet, 
-Sout("No compro el celuco");
-Suspendisse vel euismod dui, 
 psvm
-et blandit nisl. Quisque mattis mi massa,
+
