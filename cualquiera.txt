@@ -1,4 +1,8 @@
-Hola Mundo!!
-Lorem ipsum dolor sit amet, 
-consectetur adipiscing elit. 
-Aenean pharetra eu dolor non hendrerit.
+Hola Mundo
+Sout("Maquina");
+Sout("No compro el celuco");
+Sout("Ya no encuentra ese gangazo");
+sout("Jajajaja");
+sout("Jajajaja");
+sout("Jajajaja");
+psvm
