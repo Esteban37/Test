@@ -1,8 +1,10 @@
 Hola Mundo
-Sout("Maquina");
+Lorem ipsum dolor sit amet, 
 Sout("No compro el celuco");
-Sout("Ya no encuentra ese gangazo");
+consectetur adipiscing elit.
+sout("Una mia");
+Aenean pharetra eu dolor non hendrerit.
 sout("Jajajaja");
-sout("Jajajaja");
-sout("Jajajaja");
+Suspendisse vel euismod dui, 
 psvm
+et blandit nisl. Quisque mattis mi massa, 
